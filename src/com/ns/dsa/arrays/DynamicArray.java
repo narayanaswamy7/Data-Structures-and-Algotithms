@@ -9,7 +9,6 @@ public class DynamicArray<T> implements Iterable<T> {
     private int len = 0;
     private int capacity = 0;
 
-
     public DynamicArray() {
         this(16);
     }
