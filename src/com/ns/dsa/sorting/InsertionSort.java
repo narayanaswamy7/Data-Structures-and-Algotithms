@@ -20,7 +20,6 @@ public class InsertionSort {
         }
     }
 
-
     private static void insertionSort(String[] arr) {
         for (int j=1; j<arr.length; j++) {
             int key = Integer.parseInt(arr[j]);
