@@ -1,4 +1,4 @@
-package com.ns.dsa.Sorting;
+package com.ns.dsa.sorting;
 
 
 import java.io.BufferedReader;
